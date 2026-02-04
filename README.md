@@ -1,6 +1,9 @@
 # Typst-Lecture-Note-Template
 This is a simple template created by Typst for Lecture Note.
-
+# Global configuration
+Title, subtitle, affiliation, author, email, date, reference number are configured in globals.typ
+# Page configurations
+Page configurations are in main.typ
 
 ```
 ├── main.typ
